@@ -1,6 +1,6 @@
-# Estuda Aí (estuda_ai)
+# 🎓Estuda Aí 
 
-App mobile (protótipo) desenvolvido em **Flutter (Dart)** para **gerenciar sessões de estudo**, acompanhar **histórico de tempo estudado** e exibir **estatísticas/relatórios**.
+App mobile desenvolvido em **Flutter (Dart)** para **gerenciar sessões de estudo**, acompanhar **histórico de tempo estudado** e exibir **estatísticas/relatórios**.
 
 **Diferencial:** integração com a **API da Wikipedia** para exibir curiosidades/contexto relacionados ao tema da sessão em andamento (ex.: sessão de Geografia → informações relacionadas ao tema).
 
