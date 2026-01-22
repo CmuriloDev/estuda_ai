@@ -4,17 +4,6 @@ App mobile (protótipo) desenvolvido em **Flutter (Dart)** para **gerenciar sess
 
 **Diferencial:** integração com a **API da Wikipedia** para exibir curiosidades/contexto relacionados ao tema da sessão em andamento (ex.: sessão de Geografia → informações relacionadas ao tema).
 
----
-
-## 🖼️ Screenshots
-> Adicione imagens em `docs/images/` e referencie aqui.
-
-![Home](docs/images/home.png)
-![New Session](docs/images/new_session.png)
-![Stats](docs/images/stats.png)
-![Wikipedia Curiosity](docs/images/wiki_curiosity.png)
-
----
 
 ## ✨ Funcionalidades
 - Criar sessões de estudo
